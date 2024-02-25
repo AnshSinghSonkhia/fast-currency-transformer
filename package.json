@@ -1,5 +1,5 @@
 {
-  "name": "currency-transformer",
+  "name": "fast-currency-transformer",
   "version": "1.0.0",
   "description": "An NPM Package to transform data from one currency to another",
   "main": "index.js",
@@ -9,21 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnshSinghSonkhia/currency-transformer.git"
+    "url": "git+https://github.com/AnshSinghSonkhia/fast-currency-transformer.git"
   },
   "keywords": [
     "npm",
     "currency",
     "currency-converter",
     "currency-transformer",
-    "converter"
+    "converter",
+    "fast-currency-transformer"
   ],
   "author": "Ansh Singh Sonkhia",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/AnshSinghSonkhia/currency-transformer/issues"
+    "url": "https://github.com/AnshSinghSonkhia/fast-currency-transformer/issues"
   },
-  "homepage": "https://github.com/AnshSinghSonkhia/currency-transformer#readme",
+  "homepage": "https://github.com/AnshSinghSonkhia/fast-currency-transformer#readme",
   "dependencies": {
     "@everapi/freecurrencyapi-js": "^1.0.1"
   }
