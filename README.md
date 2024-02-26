@@ -1,5 +1,5 @@
 # fast-currency-transformer
-The Fastest NPM Package to transform data from one currency to another
+The Fastest NPM Package to transform data from one currency to another.
 
 # Installation
 

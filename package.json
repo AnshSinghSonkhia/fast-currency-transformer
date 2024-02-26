@@ -1,7 +1,7 @@
 {
   "name": "fast-currency-transformer",
   "version": "1.0.1",
-  "description": "An NPM Package to transform data from one currency to another",
+  "description": "The Fastest NPM Package to transform data from one currency to another.",
   "main": "index.js",
   "type": "module",
   "scripts": {
