@@ -1,6 +1,12 @@
 # fast-currency-transformer
 The Fastest NPM Package to transform data from one currency to another.
 
+## Tech-Stack:
+
+<code><img height="30" src="https://img.shields.io/badge/NPM-111111?style=for-the-badge&logo=npm&logoColor=#c63635"></code>
+<code><img height="30" src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+
+
 # Installation
 
 ```shell
